@@ -1,0 +1,10 @@
+.cart-content {
+    padding: 0px 45px;
+}
+.cart-title{
+    text-align: center;
+}
+.total{
+    color: red;
+    
+}
